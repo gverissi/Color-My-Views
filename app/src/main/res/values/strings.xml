@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Color My Views</string>
+    <string name="tv_box_one_text">Box One</string>
+    <string name="tv_box_two_text">Box two</string>
+    <string name="tv_box_three_text">Box three</string>
+    <string name="tv_box_four_text">Box four</string>
+    <string name="tv_box_five_text">Box five</string>
+    <string name="tv_label_text">How to play:</string>
+    <string name="tv_instruction_text">Tape the screen and buttons</string>
+    <string name="tv_red_text">RED</string>
+    <string name="tv_yellow_text">YELLOW</string>
+    <string name="tv_green_text">GREEN</string>
+</resources>
